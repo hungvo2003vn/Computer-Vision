@@ -1,2 +1,3 @@
-# Computer-Vision
-> Project 2: Low and High Pass Filter
+# Computer-Vision Assignment 2
+## Project Requirement:
+> Low and High Pass Filter.
